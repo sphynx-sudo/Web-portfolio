@@ -36,6 +36,10 @@ img {
     width: 100%;
 }
 
+.text-brand {
+    color: var(--color-brand);
+}
+
 .full-height {
     min-height: 100vh;
     height: 100%;
