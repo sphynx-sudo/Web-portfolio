@@ -35,3 +35,11 @@ a:hover {
 img {
     width: 100%;
 }
+
+@media (min-width: 992px) {
+    .navbar {
+        min-height: 100vh;
+        width: var(--sidbar-width);
+        background: linear-gradient(rgba(3, 63, 71, 0.023), rgba(3, 63, 71, 0.21)) url(../images/bg-1.jpg);
+    }
+}
