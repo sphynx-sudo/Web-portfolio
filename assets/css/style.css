@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@700&family=Poppins:wght@100&display=swap');
 
 :root {
-    --color-body: #b6cbce;
+    --color-body: #2A628F;
     --colort-heading: #eef3db;
-    --color-base: #033f47;
-    --color-base2: #022a30;
-    --color-brand: #e0f780;
-    --color-brand2: #deff58;
+    --color-base: #18435A;
+    --color-base2: #13293D;
+    --color-brand: #3E92CC;
+    --color-brand2: #18435A;
     --sidebar-width: 240px;
     --font-base: "Bai Jamjuree";
 }
@@ -96,7 +96,7 @@ img {
     .navbar {
         min-height: 100vh;
         width: var(--sidebar-width);
-        background: linear-gradient(rgba(3, 63, 71, 0.7), rgba(3, 63, 71, 0.7)), url(../images/bg-1.jpg);
+        background: linear-gradient(rgba(3, 63, 71, 0.747), rgba(3, 63, 71, 0.715)), url(../images/bg-1.jpg);
         background-size: cover;
         background-position: center;
     }
